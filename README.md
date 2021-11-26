@@ -1,5 +1,8 @@
-# Modulation Scheme: BPSK
-# Detection Algorithms: Maximum Likelihood (ML), Zero-forcing (ZF), Linear Minimum Mean Squared Error (L-MMSE)
+# BER for BPSK in AWGN and Rayleigh fading SISO channels
+# Detection Algorithms: 
+  - Maximum Likelihood (ML)
+  - Zero-forcing (ZF)
+  - Linear Minimum Mean Squared Error (L-MMSE)
 
 #### Case 1: AWGN channel + Hard-decision decoding
 <img src="https://github.com/TiepMH/Modulation_Schemes/blob/main/BPSK__AWGN_channel/BER%20for%20BPSK%20in%20AWGN%20SISO%20systems.png" width="50%" height="50%">
