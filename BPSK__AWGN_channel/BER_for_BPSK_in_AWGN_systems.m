@@ -1,10 +1,10 @@
-%% Topics:
+%% Topics
 % MIMO systems
 % Zero-forcing (ZF) equalization
 % Bit error rate (BER)
 
-%% Assumptions:
-% 2 transmit antennas, 2 receive antennas
+%% Assumptions
+% 1 transmit antenna, 1 receive antenna
 % Modulation scheme: BPSK
 
 %% Simulation
