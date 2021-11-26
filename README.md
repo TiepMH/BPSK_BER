@@ -21,6 +21,9 @@ As for the theoretical curve, please refer to [R1, page 7] for a derivation.
 ---
 
 #### Case 3: Rayleigh fading SISO channel & ZF decoding
+<img src="https://github.com/TiepMH/Modulation_Schemes/blob/main/BPSK__Rayleigh_SISO__ZF_decoding/BER%20for%20BPSK%20in%20Rayleigh%20fading%20SISO%20systems%20using%20ZF%20decoding.png" width="50%" height="50%">
+
+Observation: The BER performance in the case of ZF decoding is almost the same as the ML decoding, although the complexity of the ZF decoding is lower than the ML decoding.
 
 ---
 
