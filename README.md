@@ -37,4 +37,9 @@ Observation: The BER performance in the case of ML decoding is almost the same a
 #### Case 5: Rayleigh fading 2X2 MIMO channel & ZF or MMSE decoding
 <img src="https://github.com/TiepMH/Modulation_Schemes/blob/main/BPSK_Rayleigh_MIMO__ZF_or_MMSE/BER_in_Rayleigh_fading_MIMO_using_ZF_or_MMSE.png" width="50%" height="50%">
 
+---
+
+#### Case 6: Rayleigh fading 2X2 MIMO channel & ZF SIC
+<img src="https://github.com/TiepMH/Modulation_Schemes/blob/main/BPSK_Rayleigh_MIMO__ZF_SIC/BER_in_Rayleigh_fading_MIMO_using_ZF_SIC.png" width="50%" height="50%">
+
 
