@@ -3,6 +3,8 @@
   - Maximum Likelihood (ML)
   - Zero-forcing (ZF)
   - Linear Minimum Mean Squared Error (L-MMSE)
+  - ZF SIC
+  - MMSE SIC
 
 ---
 
