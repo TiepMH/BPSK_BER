@@ -1,6 +1,6 @@
 %% Topics:
-% MIMO systems
-% Zero-forcing (ZF) equalization
+% Rayleigh fading SISO channels
+% Minimum Mean Squared Error (MMSE) receiver
 % Bit error rate (BER)
 
 %% Assumptions:
