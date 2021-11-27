@@ -1,4 +1,4 @@
-# BER for BPSK in AWGN and Rayleigh fading SISO channels
+# BER for BPSK in AWGN and Rayleigh fading MIMO channels
 # Detection Algorithms: 
   - Maximum Likelihood (ML)
   - Zero-forcing (ZF)
@@ -31,3 +31,10 @@ As for the theoretical curve, please refer to [R1, page 7] for a derivation.
 ---
 
 Observation: The BER performance in the case of ML decoding is almost the same as the ZF decoding and the MMSE decoding. However, the complexity of the ML decoding is *higher* than the ZF and MMSE decoding. In fact, The BER performance will be different if we choose another modulation scheme and change the number of transmit/receive antennas. In general, both the ZF-based BER performance and MMSE-based BER performance will be worse than the BER performance of the ML decoding.
+
+---
+
+#### Case 5: Rayleigh fading 2X2 MIMO channel & ZF or MMSE decoding
+<img src="https://github.com/TiepMH/Modulation_Schemes/blob/main/BPSK_Rayleigh_MIMO__ZF_or_MMSE/BER_in_Rayleigh_fading_MIMO_using_ZF_or_MMSE.png" width="50%" height="50%">
+
+
