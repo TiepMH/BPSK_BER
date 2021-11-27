@@ -18,7 +18,7 @@ for k = 1:length(snrdB_list)
     snr = 10^(snrdB/10);
     nErr_ZF = 0;
     nErr_MMSE = 0;
-    for n = 1:nSim
+    for loop = 1:nSim
         %Transmitter
         s = rand(nTx, 1)>0.5; % sequence of 0 and 1 on all the nTx antennas
         x = BPSK(s); % signal transmitted by nTx antennas
