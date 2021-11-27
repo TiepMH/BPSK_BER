@@ -1,6 +1,6 @@
 %% Topics %%
-% MIMO systems
-% Zero-forcing (ZF) equalization
+% AWGN channels
+% Hard-decision decoding
 % Bit error rate (BER)
 
 %% Assumptions %%
